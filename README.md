@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 😁
+My name is Brendan Luke and I am an aspiring aerospace engineer from Canada <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/CA-Canada-Flag-icon.png" alt="Canadian flag">.
+
+### I have programming experience in:
+- <img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" style="display:float; height:48px;"/> Batch
+- <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-html-5-icon.png" style="display:float; height:48px;"/> HTML
+- <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png" style="display:float; height:48px;"/> Python
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/267px-Matlab_Logo.png" style="display:float; height:48px;"/> MATLAB
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="display:float; height:48px;"/> JavaScript
 
 <!--
 **BrendanLuke15/BrendanLuke15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
