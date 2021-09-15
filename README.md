@@ -7,16 +7,18 @@ My name is Brendan Luke and I am an aspiring aerospace engineer from Canada <img
   <li>GNSS: hardware, activity tracking, and data analysis</li>
   <li>Digital Communication & Signal Processing</li>
   <li>Electronics: Arduino projects</li>
+  <li>Image Processing</li>
 </ul>
 
 ### I have programming experience in:
 <table>
   <tr>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/267px-Matlab_Logo.png" style="display:float; height:48px;"/> MATLAB</td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/240px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" style="display:float; height:48px;"/> Visual Basic for Applications)</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg/240px-Microsoft_Office_logo_%282019%E2%80%93present%29.svg.png" style="display:float; height:48px;"/> VBA</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" style="display:float; height:48px;"/> JavaScript</td>
     <td><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-html-5-icon.png" style="display:float; height:48px;"/> HTML</td>
     <td><img src="https://upload.wikimedia.org/wikipedia/en/7/7c/Batch_file_icon.png" style="display:float; height:48px;"/> Batch</td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" style="display:float; height:48px;"/> Powershell</td>
     <td><img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/48/Other-python-icon.png" style="display:float; height:48px;"/> Python</td>
   </tr>
 </table>
