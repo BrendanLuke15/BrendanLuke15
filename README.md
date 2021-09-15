@@ -4,7 +4,7 @@ My name is Brendan Luke and I am an aspiring aerospace engineer from Canada <img
 ### I am interested in:
 <ul>
   <li>Most things space: spaceflight dynamics, radio communications, mission design</li>
-  <li>GNSS: hardware, activity tracking, and data analysis</li>
+  <li>GNSS: hardware, use, and data analysis</li>
   <li>Digital Communication & Signal Processing</li>
   <li>Electronics: Arduino projects</li>
   <li>Image Processing</li>
