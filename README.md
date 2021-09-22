@@ -1,5 +1,5 @@
 ## Hi there 😁
-My name is Brendan Luke and I am an aspiring aerospace engineer from Canada <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/CA-Canada-Flag-icon.png" alt="Canadian flag">.
+My name is Brendan Luke and I am an engineer from Canada <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/CA-Canada-Flag-icon.png" alt="Canadian flag">.
 
 ### I am interested in:
 <ul>
