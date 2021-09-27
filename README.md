@@ -3,7 +3,7 @@ My name is Brendan Luke and I am an engineer from Canada <img src="https://icons
 
 ### I am interested in:
 <ul>
-  <li>Most things space: spaceflight dynamics, radio communications, mission design</li>
+  <li>Most things space: flight dynamics, radio communications, mission design</li>
   <li>GNSS: hardware, use, and data analysis</li>
   <li>Aviation: navigation, weather, flight performance</li>
   <li>Digital Communication & Signal Processing</li>
