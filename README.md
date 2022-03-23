@@ -32,7 +32,7 @@ My name is Brendan Luke and I am an aerospace engineer from Canada <img src="htt
   </tr>
 </table>
 
-
+### Check out my projects below!
 
 <!--
 **BrendanLuke15/BrendanLuke15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
