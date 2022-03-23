@@ -1,9 +1,9 @@
 ## Hi there 😁
-My name is Brendan Luke and I am an engineer from Canada <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/CA-Canada-Flag-icon.png" alt="Canadian flag">.
+My name is Brendan Luke and I am an aerospace engineer from Canada <img src="https://icons.iconarchive.com/icons/wikipedia/flags/16/CA-Canada-Flag-icon.png" alt="Canadian flag">.
 
 ### I am interested in:
 <ul>
-  <li>Most things space: flight dynamics, radio communications, mission design</li>
+  <li>All things space, specifically: flight dynamics, radio communications, mission design</li>
   <li>GNSS: hardware, use, and data analysis</li>
   <li>Aviation: navigation, weather, flight performance</li>
   <li>Digital Communication & Signal Processing</li>
