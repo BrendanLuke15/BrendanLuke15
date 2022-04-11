@@ -7,7 +7,7 @@ My name is Brendan Luke and I am an aerospace engineer from Canada <img src="htt
     <ul><li>I'm very active on <a href="https://space.stackexchange.com/">space.stackexchange.com</a> in my free time sharing my knowledge and learning from others!<br><a href="https://space.stackexchange.com/users/40257/brendanluke15"><img src="https://space.stackexchange.com/users/flair/40257.png" width="208" height="58" alt="profile for BrendanLuke15 at Space Exploration Stack Exchange, Q&amp;A for spacecraft operators, scientists, engineers, and enthusiasts" title="profile for BrendanLuke15 at Space Exploration Stack Exchange, Q&amp;A for spacecraft operators, scientists, engineers, and enthusiasts"></a></li></ul>
   </li>
   <li>GNSS: hardware, use, and data analysis</li>
-  <li>Aviation: navigation, weather, flight performance, lfight test, simulation</li>
+  <li>Aviation: navigation, weather, flight performance, flight test, simulation</li>
   <li>Digital Communication & Signal Processing</li>
   <li>Electronics: Arduino projects</li>
   <li>Image Processing</li>
